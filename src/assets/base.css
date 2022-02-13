@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+h1 {
+  margin: 0;
+  padding: 0px;
+  color: #14153a;
+}
+h2 {
+  margin: 0;
+  padding: 0px;
+  color: #14153a;
+}
+p {
+  margin: 0px;
+  color: #9ea3af;
+}
+.heading {
+  margin-bottom: 15px;
+}
