@@ -7,9 +7,11 @@
 
     <el-tabs v-model="activeName" class="tabs" @tab-click="handleClick">
       <el-tab-pane label="People" name="people" />
-      <el-tab-pane label="Config" name="config" />
-      <el-tab-pane label="Role" name="role" />
-      <el-tab-pane label="Task" name="task" />
+      <el-tab-pane label="Planets" name="planets" />
+      <el-tab-pane label="Films" name="films" />
+      <el-tab-pane label="Epecies" name="species" />
+      <el-tab-pane label="Vehicles" name="vehicles" />
+      <el-tab-pane label="Starships" name="starships" />
     </el-tabs>
   </header>
 </template>

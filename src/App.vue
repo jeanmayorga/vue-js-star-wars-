@@ -15,7 +15,7 @@
   border-radius: 15px;
   overflow: hidden;
   margin: 30px auto;
-  width: 400px;
+  width: 900px;
   box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.1);
 }
 .container {

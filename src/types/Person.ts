@@ -9,4 +9,5 @@ export interface Person {
   skin_color: string;
   created: string;
   edited: string;
+  url: string;
 }

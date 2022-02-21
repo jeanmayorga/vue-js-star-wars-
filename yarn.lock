@@ -284,7 +284,7 @@
   resolved "https://registry.yarnpkg.com/@ctrl/tinycolor/-/tinycolor-3.4.0.tgz#c3c5ae543c897caa9c2a68630bed355be5f9990f"
   integrity sha512-JZButFdZ1+/xAfpguQHoabIXkcqRRKpMrWKBkpEZZyxfY9C1DpADFB8PEqGSTeFr135SaTRfKqGKx5xSCLI7ZQ==
 
-"@element-plus/icons-vue@^0.2.6":
+"@element-plus/icons-vue@^0.2.6", "@element-plus/icons-vue@^0.2.7":
   version "0.2.7"
   resolved "https://registry.yarnpkg.com/@element-plus/icons-vue/-/icons-vue-0.2.7.tgz#c0b75363098bf1fba414e18706604bfe5057ae1b"
   integrity sha512-S8kDbfVaWkQvbUYQE1ui448tzaHfUvyESCep9J6uPRlViyQPXjdIfwLBhV6AmQSOfFS8rL+xehJGhvzPXLrSBg==
@@ -2393,6 +2393,11 @@ vscode-vue-languageservice@0.31.2:
     vscode-languageserver-textdocument "^1.0.3"
     vscode-pug-languageservice "0.31.2"
     vscode-typescript-languageservice "0.31.2"
+
+vue-debounce@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/vue-debounce/-/vue-debounce-3.0.2.tgz#3b29c33db7cd2a8c20f77e0be66beda1b85f7e8d"
+  integrity sha512-+shuc9Ry+AFqJbN7BMfagazB81/bTiPWvUZ4KBjambgrd3B5EQBojxeGzeNZ21xRflnwB098BG1d0HtWv8WyzA==
 
 vue-demi@*:
   version "0.12.1"
